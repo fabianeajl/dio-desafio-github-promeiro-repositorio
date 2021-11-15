@@ -1,4 +1,4 @@
-# Principais comandos Git e para quê cada um serve (Criar um arquivo md para deixar mais apresentável)
+# Principais comandos Git e para quê cada um serve
 
 ## Para Listar as Pastas:
 
@@ -9,7 +9,7 @@
 
 - cd - permite que navegue entre as pastas do seu Repositório local
 - cd + espaço + / - vai para pasta base ou 
-- cd + epaço + / + nome da pasta + / (Ex: /c/windows/) - vai para uma pasta especifica
+- cd + espaço + / + nome da pasta + / (Ex: /c/windows/) - vai para uma pasta especifica
 - cd + espaço + .. - retrocede para pasta anterior
 
 ## Para Criar uma pasta:
@@ -24,16 +24,4 @@ obs.: A função echo repete tudo que vc colocar entre aspas.
 ## Para deletar arquivo/pasta 
 
 - del + nome da pasta + enter - Esse comando é executado para apagar somente os arquivos dentro da pasta solicitada.
-- rmdir + noma da pasta + /s + espaço + /q + enter - Esse comando é executado para apagar a pasta solicitada e seus arquivos.
-
-
-Outros comandos Git para fazer o resumo (Falta resumir e incluir no arquivo md)
-
-git init
-git config
-git add
-git commit
-git status
-git push
-git pull
-git remote add
+- rmdir + nome da pasta + /s + espaço + /q + enter - Esse comando é executado para apagar a pasta solicitada e seus arquivos.
