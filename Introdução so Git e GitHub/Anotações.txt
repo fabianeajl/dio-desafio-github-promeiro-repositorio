@@ -1,0 +1,15 @@
+Principais comandos e pra quê serve
+
+cd - Mudar de Pasta
+dir/ls - Criar pasta
+mkdir - criar uma pasta
+echo - Criar um arquivo
+del/rmdir - deletar arquivo/pasta
+git init
+git config
+git add
+git commit
+git status
+git push
+git pull
+git remote add
